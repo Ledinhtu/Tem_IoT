@@ -1,0 +1,1 @@
+# Cần database vì khi app dc mở thì nó cần đọc dữ liệu để hiển thị
